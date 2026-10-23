@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá, eu sou a Renata Vieira Claro 👋
 
-<!--
-**Renata-wz/Renata-wz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente direcionando minha formação para **Análise de Dados e Business Intelligence**.
 
-Here are some ideas to get you started:
+Tenho desenvolvido minha base técnica por meio de estudos e exercícios práticos, buscando transformar conceitos em projetos que demonstrem minha evolução na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Atualmente estudando
+
+- SQL e MySQL
+- Análise de Dados
+- Excel
+- Modelagem de dados
+- Git e GitHub
+
+Também possuo conhecimentos iniciais em Python e pretendo aprofundá-los posteriormente com foco em análise e tratamento de dados.
+
+## 🛠️ Tecnologias e ferramentas
+
+- SQL
+- MySQL
+- MySQL Workbench
+- Excel
+- Git
+- GitHub
+- Python — fundamentos
+
+## 📁 Projetos e estudos
+
+### SQL e MySQL
+Repositório com exercícios e conteúdos desenvolvidos durante meus estudos de banco de dados, incluindo consultas, filtros, funções de agregação, GROUP BY, HAVING, modelo relacional, chaves estrangeiras e JOINs.
+
+🔗 [Ver repositório de SQL e MySQL](https://github.com/Renata-wz/sql-mysql-estudos)
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade de **estágio em Dados, Business Intelligence, Analytics ou áreas correlatas**, onde eu possa aplicar meus conhecimentos, desenvolver experiência prática e continuar evoluindo profissionalmente.
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/renata-vieira-claro-68a329213)
